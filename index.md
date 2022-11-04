@@ -52,8 +52,8 @@
 | :--- | :--- | :--- |
 | 9:00 | 退室準備 |   |
 | 10:00 | チェックアウト |  |
-| 11:00 | 成果発表会 | 13時まで[@howlive](https://howlive.jp/time-building?gclid=Cj0KCQjwnbmaBhD-ARIsAGTPcfV4RyGHZSYupE_o6ERzT4zgmoxz4BMp1HSCSndK3o3rApUKVrPfcCsaAl2eEALw_wcB) |
-| 13:00 | 昼ご飯 |  |
+| 10:30 | 成果発表会 | 12:30時まで[@howlive](https://howlive.jp/time-building?gclid=Cj0KCQjwnbmaBhD-ARIsAGTPcfV4RyGHZSYupE_o6ERzT4zgmoxz4BMp1HSCSndK3o3rApUKVrPfcCsaAl2eEALw_wcB) |
+| 13:00 | 昼ご飯 | 希望者 |
 
 ### 11/6(日)
 残ってる人で全力で遊ぶ
