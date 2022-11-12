@@ -8,7 +8,6 @@
 
 ## 場所
 - [Airbnbで借りたここ](https://www.airbnb.jp/rooms/31574459?source_impression_id=p3_1665486108_%2FHN%2BraP1wL7ECWI0)
-- [チェックインガイド](https://drive.google.com/file/d/1PfdaNjByk3f7mCRubXJe77cMYOcIHkXA/view)
 - ディスプレイはないよ...！
 
 ## 各自で準備するもの
